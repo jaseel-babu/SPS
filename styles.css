@@ -59,12 +59,14 @@ font-family: Montserrat;
 .features{
     display: flex;
     justify-content: center;
-    padding: 30px;
-    background-color:#f6f6f6;
-    
+    padding-right: 3em;
+    background-color: #f6f6f6;
     width: inherit;
-    
+    padding-top: 3em;
+    padding-bottom: 3em;
 }
+
+
 .features h2{
     font-size: 40px;
     font-weight: 900;
@@ -266,6 +268,7 @@ font-family: Montserrat;
     position: relative;
     margin-top: -3px !important;
     margin-right: 16% !important;
+    margin-left: 5%;
 
 }
 .five::after{
@@ -286,15 +289,15 @@ font-family: Montserrat;
 .six{
 
     border-right: 3px solid #00d2b5;
-    border-top:3px solid #00d2b5 ;
+    border-top: 3px solid #00d2b5;
     border-top-right-radius: 15px;
     padding: 0px 40px;
-    margin: -2.1px;
-    width: 86%;
+    margin: 21%;
+    width: 65%;
     margin-right: 15%;
     position: relative;
     padding-top: 20px;
-    margin-top: -2px !important;
+    margin-top: -3px !important;
 
 }
 .six::after{
